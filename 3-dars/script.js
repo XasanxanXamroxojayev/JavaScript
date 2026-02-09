@@ -10,7 +10,7 @@
 
 // Boolean - true, false
 
-// undefined - mavjud bo'lmagan qiymat
+// undefined - mavjud bo'lmagan qiymat 
 
 // Symbol - Symbol()
 // console.log(Symbol("1") === Symbol("1"));
