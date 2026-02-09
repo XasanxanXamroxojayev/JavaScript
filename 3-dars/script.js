@@ -113,7 +113,7 @@
 
 // let getName2 = function () {};
 
-// let getName3 = () => {};           ❌❌❌
+// let getName3 = () => {};          
 
 // console.log(typeof getName);
 // console.log(typeof getName2);
